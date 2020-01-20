@@ -1,0 +1,10 @@
+#app{
+    max-width: 1200px;
+    margin: 0 auto; /* quero que fique tudo centralizado se a tela for muito grande */
+    padding: 60px 30px; /*60 px em cima e em baixa e 30 na esquerda e na direita*/
+
+    display: flex;
+    flex-direction: row; /*quero que todas fiquem em uma linha*/
+
+    align-items: flex-start; /* quero que fique no topo sempre */
+}
